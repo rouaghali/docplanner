@@ -1,0 +1,36 @@
+<div class="container">
+              <div class="row">
+
+                  <div class="col-sm-4">
+
+                      </div> 
+
+                      <div class="col-sm-4">
+                        <p>    <h1>
+                            We are a global company
+                            <br>with local culture
+                          </h1>      </p>
+
+                        </div> 
+                        <div class="col-sm-4">
+
+                          </div> 
+                          <div class="col-sm-4">
+
+                            </div> 
+                            <div class="col-sm-4">
+
+                              </div> 
+
+
+.brands__logos {
+    display :flex;
+    float: left;
+    font-size: 0;
+    width: 67%;
+    list-style: none;
+    font-weight: 400;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #747474;} 
+    .row{
+        line-height: 1.3;

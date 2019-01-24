@@ -1,0 +1,211 @@
+.green {
+
+    color:green;
+    
+}
+.lead__logo {
+padding-top: 1%;
+padding-bottom: 1%;
+text-align: center;
+
+}
+.row {
+    display: flex;
+    
+}
+.pic1 img  {
+    max-width: 100%;
+    height: auto;
+
+    
+}
+.pic1{
+
+       width: 50%;
+       height: 20%
+
+
+}
+.boxes {
+
+
+    display:flex;
+}
+
+.all h2 {
+
+
+    font-size: .875em;
+    font-weight: 400;
+    margin: 0;
+    color: hsla(0,0%,100%,.7);
+
+}
+
+.all h1{
+
+
+    font-size: 1.625em;
+    color: #fff;
+    margin-top: .3em;
+}
+
+ select #domain-switcher {
+    width: 100%;
+    background: transparent;
+    border: 0;
+    border-radius: 3;
+    padding: 0 3.5em 0 1.5em;
+    height: 40px;
+    -webkit-appearance: none;
+    text-transform: uppercase;
+    outline: 0;
+}
+
+div .b2 {
+    border-radius: 5%;
+    height: 68%;
+
+    width: 41%;
+    margin-right: 5%;
+}
+
+
+div .b1 {
+
+    border-radius: 5%;
+    height: 68%;
+    
+    width: 41%;
+    margin-left:5%
+}
+.pic {
+    height: 61%;
+    margin-left: 37%;
+    width: 527px;
+    
+   margin-top:-4%
+}
+.boxes {
+
+    justify-content: space-between;
+}
+
+.descrip  {
+    float: left;
+    width: 90%;
+    font-size: 1.625em;
+    margin: 1.25em 0 .35em;
+    padding-right: 1em;
+    color: #00b39b;
+    font-weight: 300;
+    letter-spacing: 2.3px;
+}
+.all {
+
+    overflow: hidden;
+}
+
+
+ .row a  {
+
+    margin-top: 12%;
+    margin-bottom: -7%;
+    fill:grey
+ }
+
+
+.ecrit {
+    margin-top: 14%;
+    fill: grey;
+
+}
+
+.light {
+
+    background-color: rgb(210, 241, 245);
+display: flex;
+}
+
+.ph1 { 
+    color: #00b39b;
+
+
+} 
+.p1{
+
+    margin-top: 39px;
+    color: grey
+
+}
+
+.photo .lead__logo {
+    height: 68%;
+}
+.bt1 h3{
+    margin-left: 14%;
+    color: #00b39b;
+    margin-left: 24%;
+}
+
+.bt1 img {
+    margin-left: 35%;
+}
+
+.pays{
+    color: grey
+
+}
+.all2  {
+
+    flex-wrap: wrap-reverse;
+}
+div .bt1 {
+    border-radius: 5%;
+    height: 92%;
+    width: 85%;
+    margin-left:5%;
+    margin-bottom:5%;
+   
+}
+
+.gcolor{
+
+    color: #00b39b;
+   margin-left: 35%;
+}
+.para {
+    color: grey;
+    margin-top: 5%;
+}
+.part1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.we {
+    margin-top: 21px;
+    margin-bottom: 4rem;
+    margin-left: 10%;
+    color: grey;
+}
+
+
+.card-body{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.btn{
+    font-size: 70% !important;
+}
+footer{
+    font-size: small;
+    color: #747474;}
+    
+    .title{
+
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
